@@ -16,7 +16,7 @@ A motivated individual with a strong foundation in backend development, I thrive
 <div style="flex: 1; border: 2px solid #4CAF50; padding: 10px; border-radius: 5px; text-align: center;">
 
 ### 🎓 Education
-**Bachelor’s Degree in Engineering**  
+**Bachelor's Degree in Engineering**  
 *Communications Department*  
 
 </div>
@@ -70,6 +70,24 @@ A motivated individual with a strong foundation in backend development, I thrive
 
 <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px;">
 
+### 💼 Work Experience
+**Junior Full Stack Web Developer**  
+*Dielegende* | Oct 2024 - Present  
+- Developing and maintaining admin dashboards using Laravel (backend) and Angular (frontend)
+- Building scalable RESTful APIs for mobile and web applications
+- Managing database architecture and optimization with MySQL
+- Ensuring secure authentication & authorization using JWT, Sanctum, and OAuth
+- Handling server-side logic, data processing, and performance optimization
+- Collaborating with frontend developers to ensure seamless UI/UX integration
+- Implementing best security practices for web and mobile applications  
+🔗 [www.dlegende.net](http://www.dlegende.net)
+
+</div>
+
+---
+
+<div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px;">
+
 ### 🛠️ Technologies & Tools
 <p>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
@@ -92,7 +110,7 @@ A motivated individual with a strong foundation in backend development, I thrive
 
 <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px;">
 
-### 🌱 I’m Currently Learning
+### 🌱 I'm Currently Learning
 - Advanced **PHP** features and best practices.
 - Mastering **Laravel** for building RESTful APIs and robust applications.
 - Exploring **MySQL** for efficient database management.
@@ -103,7 +121,7 @@ A motivated individual with a strong foundation in backend development, I thrive
 
 <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px;">
 
-### 👯 I’m Looking to Collaborate On
+### 👯 I'm Looking to Collaborate On
 - Open-source projects related to PHP and Laravel.
 - Any backend development projects where I can contribute and learn.
 
@@ -113,7 +131,7 @@ A motivated individual with a strong foundation in backend development, I thrive
 
 <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px;">
 
-### 🤔 I’m Seeking Help With
+### 🤔 I'm Seeking Help With
 - Best practices in Laravel.
 - Optimization techniques for PHP applications.
 - Advanced MySQL query strategies.
@@ -139,6 +157,8 @@ A motivated individual with a strong foundation in backend development, I thrive
 | Platform        | Link |
 |-----------------|------|
 | ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white) | [Hussien Shokry](https://www.linkedin.com/in/hussien-shokry-a64a80136/) |
+| ![Portfolio](https://img.shields.io/badge/Portfolio-Website-4CAF50?style=flat&logo=netlify&logoColor=white) | [hussien-shokry.netlify.app](https://hussien-shokry.netlify.app/) |
+| ![Upwork](https://img.shields.io/badge/Upwork-Profile-6FDA44?style=flat&logo=upwork&logoColor=white) | [Upwork Profile](https://www.upwork.com/freelancers/hussienshokry) |
 | ![Email](https://img.shields.io/badge/Email-hessinshokry3@gmail.com-c14438?style=flat&logo=gmail&logoColor=white) | [hessinshokry3@gmail.com](mailto:hessinshokry3@gmail.com) |
 | ![Facebook](https://img.shields.io/badge/Facebook-Hessin_Shokry-1877F2?style=flat&logo=facebook&logoColor=white) | [Hessin Shokry](https://www.facebook.com/hessin.shokry) |
 | ![X (Twitter)](https://img.shields.io/badge/X-@HessinShokry-1DA1F2?style=flat&logo=twitter&logoColor=white) | [@HessinShokry](https://x.com/HessinShokry) |
@@ -153,8 +173,6 @@ A motivated individual with a strong foundation in backend development, I thrive
 <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px;">
 
 ### ⚡ Quote
-> “Strive for progress, not perfection.” 
+> "Strive for progress, not perfection." 
 
 </div>
-
----
